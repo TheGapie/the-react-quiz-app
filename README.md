@@ -1,6 +1,5 @@
 # The React Quiz App
 
-![React Quiz App](quiz_app_screenshot.png)
 
 The React Quiz App is a single-page quiz application focused on testing your knowledge of React. The app comes equipped with various functionalities, including a progress bar, a timer, a score tracker, and a display of the previous highest score. The quiz questions are sourced from a `questions.json` file located in the `./data` directory. To fetch the quiz data, the app utilizes json-server, which serves as a mock server.
 
